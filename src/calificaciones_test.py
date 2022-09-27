@@ -1,4 +1,5 @@
 from calificaciones import nota,datos
 if __name__=="__main__" :
-    nota(datos())
+    x=datos()
+    print(nota(x[0],x[1],x[2]))
     
