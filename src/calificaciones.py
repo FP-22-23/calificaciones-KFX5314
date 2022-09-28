@@ -9,5 +9,4 @@ def datos():
     errores=int(input("Errores:"))
     totalRespuestas=int(input("Total de respuestas:"))
     print("\n",aciertos,"\n",errores,"\n",totalRespuestas)
-    print("hola")
     return aciertos, errores, totalRespuestas
