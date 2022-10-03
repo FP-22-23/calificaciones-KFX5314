@@ -11,4 +11,6 @@ def datos():
     print("\n",aciertos,"\n",errores,"\n",totalRespuestas)
     return aciertos, errores, totalRespuestas
 
-    
+
+def calcula_nota_cuatrimestre(c1,c2,pr,ex):
+    return 10.0
