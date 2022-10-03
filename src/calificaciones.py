@@ -10,3 +10,5 @@ def datos():
     totalRespuestas=int(input("Total de respuestas:"))
     print("\n",aciertos,"\n",errores,"\n",totalRespuestas)
     return aciertos, errores, totalRespuestas
+
+    
